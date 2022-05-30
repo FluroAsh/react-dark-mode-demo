@@ -28,10 +28,10 @@ html {
 `;
 
 export const lightTheme = {
-  body: 'linear-gradient(#1f1f1f, #fff)',
+  body: '#fff',
   fontColor: '#000',
-  btnColor: '#00000095',
-  btnColorHover: '#000000',
+  btnColor: '#000',
+  btnColorHover: '#00000095',
 };
 
 export const darkTheme = {
